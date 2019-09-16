@@ -1,0 +1,22 @@
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\bin\Debug\StoryDownload.exe.config
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\bin\Debug\StoryDownload.exe
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\bin\Debug\StoryDownload.pdb
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\bin\Debug\StoryDownload.xml
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.vbprojResolveAssemblyReference.cache
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.Form1.resources
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.Resources.resources
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.vbproj.GenerateResource.Cache
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.exe
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.xml
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload\StoryDownload\obj\Debug\StoryDownload.pdb
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\bin\Debug\StoryDownload.exe.config
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.exe
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.xml
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.pdb
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\bin\Debug\StoryDownload.exe
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\bin\Debug\StoryDownload.pdb
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\bin\Debug\StoryDownload.xml
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.vbprojResolveAssemblyReference.cache
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.Form1.resources
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.Resources.resources
+C:\Users\hp.hp-PC\Desktop\Vb.net\StoryDownload\StoryDownload\obj\Debug\StoryDownload.vbproj.GenerateResource.Cache

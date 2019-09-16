@@ -1,0 +1,18 @@
+c:\users\hp.hp-pc\documents\visual studio 2015\Projects\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.exe.config
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.csprojResolveAssemblyReference.cache
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload___C.Properties.Resources.resources
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.csproj.GenerateResource.Cache
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.exe
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.pdb
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload___C.Form1.resources
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.exe
+C:\Users\hp.hp-PC\Documents\Visual Studio 2015\Projects\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.pdb
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.exe.config
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.exe
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.pdb
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.exe
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\bin\Debug\StoryDownload - C.pdb
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.csprojResolveAssemblyReference.cache
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload___C.Form1.resources
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload___C.Properties.Resources.resources
+C:\Users\hp.hp-PC\Desktop\C#\StoryDownload - C\StoryDownload - C\obj\Debug\StoryDownload - C.csproj.GenerateResource.Cache
